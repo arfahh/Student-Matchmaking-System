@@ -187,7 +187,7 @@ $conn->close();
     <div id="successMessage" class="success-message">
         Student added successfully!
     </div>
-     <a href="manage_faculty.php?adid=0" class="back-btn">Back to Manage Faculty</a>
+     <a href="manage_students.php?adid=0" class="back-btn">Back to Manage Students</a>
     <form action="add_student.php?adid=0" method="POST">
         <div class="form-group">
             <div>
