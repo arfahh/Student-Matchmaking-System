@@ -195,7 +195,7 @@ $conn->close();
     <div id="successMessage" class="success-message">
         Student updated successfully!
     </div>
-    <a href="manage_faculty.php?adid=0" class="back-btn">Back to Manage Faculty</a>
+    <a href="manage_applications.php?adid=0" class="back-btn">Back to Manage Applications</a>
 
     <form action="edit_applications.php?adid=0&aid=<?php echo $application['aid']; ?>" method="POST">
         <label for="sid">SID:</label>
