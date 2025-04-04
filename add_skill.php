@@ -149,7 +149,7 @@ $conn->close();
 </head>
 <body>
     <h1>Add New Skill</h1>
-    <a href="manage_faculty.php?adid=0" class="back-btn">Back to Manage Faculty</a>
+    <a href="manage_skills.php?adid=0" class="back-btn">Back to Manage Skills</a>
 
     <form action="add_skill.php?adid=0" method="POST">
         <label for="skill_name">Skill Name:</label>
