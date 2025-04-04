@@ -217,7 +217,7 @@ $conn->close();
 </head>
 <body>
     <h1>Edit Student</h1>
-     <a href="manage_faculty.php?adid=0" class="back-btn">Back to Manage Faculty</a>
+     <a href="manage_students.php?adid=0" class="back-btn">Back to Manage Students</a>
     <!-- Success message pop-up -->
     <div id="successMessage" class="success-message">
         Student updated successfully!
@@ -282,3 +282,4 @@ $conn->close();
     
 </body>
 </html>
+
